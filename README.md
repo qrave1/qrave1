@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @qrave1
+- 👀 I’m interested in backend/frontend development
