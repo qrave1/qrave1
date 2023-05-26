@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on ToDo Web app
-- 🌱 I’m currently learning FastAPI
+- 🌱 I’m currently learning Go, Python
 
 
 
