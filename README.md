@@ -1,5 +1,5 @@
 ### Hello there 👋
-
+- 🔭 I’m currently working on Price check bot
 - 🌱 I’m currently learning Go, Python
 
 
