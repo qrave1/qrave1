@@ -1,6 +1,6 @@
 ### Hello there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Go, Python
+- 🔭 I’m currently working on Go Weather Bot
+- 🌱 I’m currently learning Go, Docker and other infrastructure things 
 
 
 
